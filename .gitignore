@@ -1,0 +1,12 @@
+target
+build
+.gradle
+.classpath
+.project
+.settings
+.env
+.idea
+jax-rs-heroku.iml
+*.swp
+*.swn
+*.swo
