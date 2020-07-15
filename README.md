@@ -1,4 +1,4 @@
-# RowSheet Base WebApp
+# Sports Betting App
 
 ## Running the application locally
 
