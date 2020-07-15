@@ -16,11 +16,18 @@
     font-family: 'Bebas Neue', cursive;
 }
 body {
+    background-blend-mode: luminosity;
     min-height: 100vh;
-    background: #95d35f;
+    background: url(/public/football3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-color: #00244a;
 }
 .container {
-    background: white;
+    background: #000000e0;
     min-height: calc(100vh - 71px);
+}
+.d-flex.flex-column.flex-md-row.align-items-center.p-3.px-md-4.bg-white.border-bottom.shadow-sm {
+    background: black !important;
 }
     </style>

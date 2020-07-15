@@ -17,9 +17,7 @@ MY LINEUPS
         </div>
     </div>
 
-    <footer class="pt-4 my-md-5 pt-md-5 border-top">
-        <jsp:include page="includes/footer.jsp"/>
-    </footer>
+    <jsp:include page="includes/footer.jsp"/>
 
 </div>
 	</body>
