@@ -31,3 +31,10 @@ body {
     background: black !important;
 }
     </style>
+<script>
+window.onload = function() {
+    $("a[href$='#']").click(function() {
+        alert("NOT IMPLEMENTED: That button doesn't do anything yet.");
+    });
+};
+</script>
