@@ -12,7 +12,16 @@
 
             <jsp:include page="includes/navtabs.jsp"/>
 
-MY CONTESTS
+<div class="alert alert-info m-5 text-center">
+    <h1>
+        <small> Unfinished Page:</small>
+        <br>
+        <pre>/my-contests.jsp</pre>
+    </h1>
+    <p>
+        This page is not completed yet.
+    </p>
+</div>
 
         </div>
     </div>

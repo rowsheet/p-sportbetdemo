@@ -24,8 +24,10 @@
             <div class="card">
                 <img class="card-img-top" src="/public/football1.jpg" alt="Card image cap">
                 <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <h5 class="card-title">Example Promo 1</h5>
+                    <p class="card-text">
+                        Sign up for this thing and win awesome prizes.
+                    </p>
                     <a href="#" class="btn btn-primary">
                         Sign Up
                         <i class="fas fa-angle-double-right"></i>
@@ -37,8 +39,10 @@
             <div class="card">
                 <img class="card-img-top" src="/public/football1.jpg" alt="Card image cap">
                 <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <h5 class="card-title">Example Promo 2</h5>
+                    <p class="card-text">
+                        Sign up for this thing and win awesome prizes.
+                    </p>
                     <a href="#" class="btn btn-primary">
                         Sign Up
                         <i class="fas fa-angle-double-right"></i>
@@ -50,8 +54,10 @@
             <div class="card">
                 <img class="card-img-top" src="/public/football1.jpg" alt="Card image cap">
                 <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <h5 class="card-title">Example Promo 3</h5>
+                    <p class="card-text">
+                        Sign up for this thing and win awesome prizes.
+                    </p>
                     <a href="#" class="btn btn-primary">
                         Sign Up
                         <i class="fas fa-angle-double-right"></i>
@@ -87,6 +93,13 @@
             </h1>
         </div>
     </div>
+
+<h3 class="text-center pt-4 pb-1" style="color:white; border-top: 1px solid white;">
+    Example Data Table
+</h3>
+<div class="card p-2 mt-3 mb-3">
+    <jsp:include page="includes/demotable.jsp"/>
+</div>
 
     <jsp:include page="includes/footer.jsp"/>
 
